@@ -1,13 +1,11 @@
 title: Ryan Thomas # your name (or website title) here
 logo: "/images/Thomas_Ryan.jpg?raw=True" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
+description: > # your text below (remove <br> elements if you don't need line breaks)  
   <br>
-  in _config.yml 
   <br><br>
   <a href="https://www.linkedin.com/in/ryan-thomas-092b00200/">LinkedIn</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="/images/Resume_RyanThomas_2023" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
