@@ -19,6 +19,23 @@ My name is Ryan Thomas and I am a graduate of Lehigh University. I majored in fi
 _**[Natural language processing 10-Ks to identify positive or negative sentiment](midterm_summary)**_
 
 
+## Summary of Findings:
+| **Findings**                                          | 
+|-------------------------------------------------------| 
+| **LM vs. ML Sentiment Comparison:**                   | 
+|   - Both LM and ML sentiment variables around the first return show a weak linear relationship.  | 
+|   - Positive sentiment values for both LM and ML exhibit denser clusters, indicating a stronger relationship with returns. | 
+|   - Negative sentiment values are more dispersed, suggesting either a weaker impact on returns or a weaker relationship compared to positive sentiment. | 
+| **Comparison with Table 3:**                         | 
+|   - R-Squared values for positive and negative LM sentiments are slightly higher than those in Table 3 from Garcia, Hu, and Roher's paper. | 
+|   - Possible reasons for differences include variations in data relationships and missing data, leading to potential underfitting of models. | 
+| **Contextual Sentiment Analysis:**                   | 
+|   - Positive Regulatory Sentiment shows a strong relationship with returns, with few outliers and a dense cluster. | 
+|   - Negative Financial Performance also exhibits a strong relationship, with few outliers and a denser cluster suggesting influence on returns. | 
+| **Sign and Magnitude Differences:**                 | 
+|   - Differences in signs and magnitudes are evident, such as a large negative value with low magnitude in the Negative Financial plot, indicating potential disproportionate influence on return-sentiment relationship. |
+
+
 
 <img src="images/image.png"/>
 
