@@ -18,6 +18,8 @@ My name is Ryan Thomas and I am a graduate of Lehigh University. I majored in fi
 
 _**[Natural language processing 10-Ks to identify positive or negative sentiment](midterm_summary)**_
 
+<img src="images/image.png"/>
+ 
 ## Summary of Findings:
 
 ### LM vs. ML Sentiment Comparison:
@@ -36,9 +38,6 @@ _**[Natural language processing 10-Ks to identify positive or negative sentiment
 ### Sign and Magnitude Differences:
 - Differences in signs and magnitudes are evident, such as a large negative value with low magnitude in the Negative Financial plot, indicating potential disproportionate influence on return-sentiment relationship.
 
-
-
-<img src="images/image.png"/>
 
 ---
 
