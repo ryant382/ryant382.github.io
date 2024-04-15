@@ -2,7 +2,7 @@
 
 Hello, 
 
-My name is Ryan Thomas and I am a graduate of Lehigh University. I majored in finance with a minor in computer science. Thorugout my time at Lehigh I gained unique skills within these two fields of study and have a profound desire to enhance these skills thorughout my career. When I am not spending my time working I like to enjoy the outdoors by fishing and running. Additionally, I like to weightlift and play baseball. 
+My name is Ryan Thomas, and I am a graduate of Lehigh University. I majored in finance with a minor in computer science. Throughout my time at Lehigh, I gained unique skills within these two fields of study and have a profound desire to enhance these skills throughout my career. When I am not spending my time working, I like to enjoy the outdoors by fishing and running. Additionally, I like to weightlift and play baseball. 
 
 <!-- Upload your own photo and change the path -->
 
