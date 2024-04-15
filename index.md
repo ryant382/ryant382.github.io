@@ -6,9 +6,9 @@ My name is Ryan Thomas and I am a graduate of Lehigh University. I majored in fi
 
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
+<!-- <p style="text-align:center;">
   <img class="img-circle" src="/images/Thomas_Ryan.jpg" width="50%">
-</p>
+</p> -->
 
 ---
 
