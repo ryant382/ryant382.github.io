@@ -12,15 +12,15 @@ My name is Ryan Thomas and I am a graduate of Lehigh University. I majored in fi
 
 ---
 
-## Portfolio
+## Financial Data Analytics Projects
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify positive or negative sentiment](midterm_summary)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/image.png"/>
 
 ---
 
