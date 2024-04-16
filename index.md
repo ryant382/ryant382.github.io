@@ -41,7 +41,7 @@ _**[Natural language processing 10-Ks to identify positive or negative sentiment
 
 ---
 
-_**[Predictive Modeling for Optimal Capital Market Selection: A Comparative Analysis of SPACs and IPOs](https://donbowen.github.io/teamproject/)**_
+_**[Predictive Modeling for Optimal Capital Market Selection: A Comparative Analysis of SPACs and IPOs](https://github.com/LeDataSciFi/asgn-05-ryant382)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
