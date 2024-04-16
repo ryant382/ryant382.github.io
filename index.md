@@ -16,7 +16,7 @@ My name is Ryan Thomas, and I am a graduate of Lehigh University. I majored in f
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify positive or negative sentiment](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify positive or negative sentiment](https://github.com/LeDataSciFi/asgn-05-ryant382)**_
 
 <img src="images/image.png"/>
  
