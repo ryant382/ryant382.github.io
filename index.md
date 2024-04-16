@@ -55,9 +55,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Upon my graduation from Lehigh University, I will be joining BNY Mellon as a Market and Wealth Services. I will be a part of a two-year rotational analyst program where I will work in fields relating to Equity Trading, Credit Management, Real Estate, Treasury Services, and many more. Within my career I hope to continue to utilize the crossover between finance and computer science. 
 
 ---
 
