@@ -47,9 +47,9 @@ _**[Predictive Modeling for Optimal Capital Market Selection: A Comparative Anal
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Some personal project](https://github.com/ZiggyFloydLee/PersonalBudgetingCalculator)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/calculator.png"/>
 
 ---
 
